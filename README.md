@@ -88,3 +88,7 @@ Configure SMTP in mail.php
 
 MIT – feel free to modify and use
 
+NOTE : to access the admin page use the following credentials: 
+  login: &Aymane
+  psw: aymane
+  confirm reCaptcha
